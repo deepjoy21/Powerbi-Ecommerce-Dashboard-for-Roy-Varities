@@ -1,4 +1,4 @@
 # POWERBI DASHBOARD PROJECT
 
 Objective:-
-To create a Dashboard to track and analyze the online sales of Roy Varities across India
+A Dashboard is created to track and analyze the online sales of Roy Varities across India(Microsoft Powerbi).
